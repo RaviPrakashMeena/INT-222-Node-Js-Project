@@ -3,6 +3,7 @@ this is project based on real time chat application which is submission base pro
  steps to do:-
  
 npm install
+
 npm run dev
 
 Go to localhost:3000
